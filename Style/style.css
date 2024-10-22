@@ -85,7 +85,7 @@ nav ul li a:hover::after{
     padding: 10px;
 }
 .about-col-1 img{
-        width: 100%;
+        width: %;
         height: auto;
         border-radius: 300px;
         object-fit: cover;
